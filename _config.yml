@@ -4,7 +4,7 @@ url: "https://blog.sambal0x.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Richard's Infosec blog                           # site's title
-description: "Richard's Infosec journey"                # used by search engines
+description: "This purpose of this blog is to serve my rant, brain dumps, or interesting findings as I journey through my career as a security professional."                # used by search engines
 avatar: assets/img/author.jpg                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
