@@ -10,9 +10,9 @@ Richard Tan is currently part of the offensive security consultant team at The M
 
 Prior to entering the Infosec world, he worked as Network Engineer at Ticketmaster where he was responsible for managing network and cloud infrastructure for large venues, datacenters, and corporate offices globally.
 
-He first started his career following his graduation as a Mechatronics Engineer working for Siemens, where he played an important role in designing and commissioning communication systems for complex Rail Transporation Systems in New Zealand and Australia. He currently has a combined experience of 10 years across both Engineering and Information Security.
+He first started his career following his graduation as a Mechatronics Engineer working for Siemens, where he played an important role in designing and commissioning communication systems for complex Rail Transporation Systems in New Zealand and Australia. 
 
-
+He currently has a combined experience of 10 years across both Engineering and Information Security.
 
 He also currently holds the following industry certifications:
 * Certified Information Systems Security Professional (CISSP)
