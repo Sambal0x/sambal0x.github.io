@@ -2,7 +2,7 @@
 layout: post
 title: "Passcode Activity Bypass using Race Condition"
 date: 2019-10-18
-categories: "bug bounty"
+tag: [Bug bounty, Mobile]
 
 ---
 

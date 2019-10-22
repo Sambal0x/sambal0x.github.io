@@ -2,8 +2,7 @@
 layout: post
 title: "Payment bypass via parameter tampering"
 date: 2019-07-24
-categories:
-  - gigs
+tags: Gigs
 ---
 
 
