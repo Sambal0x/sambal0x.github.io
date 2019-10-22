@@ -9,7 +9,7 @@ categories:
 
 I was recently on an engagement testing a client's checkout payment system. It was the type of engagement where everything seemed to be locked down and I had no findings for 2 days straight
 
-![Give me something...](/images/bangkeyboard.gif)
+![Give me something...](/img/bangkeyboard.gif)
 
 The checkout page was a two (2) step process. The first page was a page showing the payment amount owing including options to add delivery, vouchers and coupons. The second page was the payment page where the user had to place in his credit card details or other payment methods such as paypal.
 
