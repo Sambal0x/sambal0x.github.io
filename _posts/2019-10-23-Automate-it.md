@@ -35,7 +35,7 @@ The following scripts can be used to quickly find any potential low-hanging frui
 * Description: The script uses gobuster to search for interesting directories. I used to use dirsearch but found that gobuster does the job quicker especially since it is written in GO.
 
 **master.sh**
-The three (3) scripts are then combined into a master script - **master.sh**. All output is then fed to an incoming webhook on Slack so I can monitor this from the comfort of my couch. 
+* The three (3) scripts are then combined into a master script - **master.sh**. All output is then fed to an incoming webhook on Slack so I can monitor this from the comfort of my couch. 
 
 ![subdomain_enum](/assets/img/blog/subdomain_enum.JPG)
 ![screen_enum](/assets/img/blog/screen_enum.JPG)
@@ -51,4 +51,3 @@ Simple right? Assuming that you have already got the existing tools I mentioned 
 
 Script can be downloaded here:
 * [https://github.com/Sambal0x/Recon-tools](https://github.com/Sambal0x/Recon-tools)
-
