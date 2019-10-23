@@ -6,7 +6,6 @@ tag: [Bug bounty, Tools]
 
 ---
 
-## 
 One of the nice things about the Infosec community is that the community is mostly generous in sharing their ideas and tools. My boss used to say "Sharing is Caring" and this really holds true with the community.
 
 I had some time off today due to an engagement pulling out so I decided to spend the down time combining some of the recon tools made by the community that I normally use.
