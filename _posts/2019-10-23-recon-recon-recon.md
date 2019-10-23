@@ -44,7 +44,7 @@ The three (3) scripts are then combined into a master script - "master.sh". All 
 
 To run the tool, save all the scripts in the same directory and run the following commands:
 
-{% highlight bash}
+{% highlight bash %}
 ./master.sh domain.com
 {% endhighlight %}
 
