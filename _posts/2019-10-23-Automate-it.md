@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recon Recon Recon"
+title: "Automate it!"
 date: 2019-10-23
 tag: [Bug bounty, Tools]
 
