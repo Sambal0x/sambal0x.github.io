@@ -6,7 +6,6 @@ tag: [Bug bounty, Tools]
 
 ---
 
-## Automate it!
 _"If you are doing a task more than twice? Then, automate it!"_ I hear that phrase all the time, but never actually got to it. Well today's a good opportunity...
 
 I had some time off today due to an engagement pulling out so I decided to spend the down time combining some of the community recon tools I normally use.
