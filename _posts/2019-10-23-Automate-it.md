@@ -46,7 +46,7 @@ To run the tool, save all the scripts in the same directory and run the followin
 ./master.sh domain.com
 {% endhighlight %}
 
-Simple right? Assuming that you have already got the existing tools built :)
+Simple right? Assuming that you have already got the existing tools I mentioned ready to go :)
 
 Script can be downloaded here:
 * https://github.com/Sambal0x/Recon-tools
