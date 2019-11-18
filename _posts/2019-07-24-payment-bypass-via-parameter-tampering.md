@@ -6,7 +6,7 @@ tags: Gigs
 ---
 
 
-I was recently on an engagement testing a client's checkout payment system. It was the type of engagement where everything seemed to be locked down and I had no findings for 2 days straight
+I was recently on an engagement testing a client's checkout payment system. It was the type of engagement where everything seemed to be locked down and I had no findings for 2 days straight (most likely because I was looking at the wrong place)
 
 ![Give me something...](/assets/img/blog/bangkeyboard.gif)
 
