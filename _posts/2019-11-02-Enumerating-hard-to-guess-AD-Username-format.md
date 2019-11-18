@@ -37,10 +37,9 @@ from string import ascii_uppercase
 
 for a in ascii_uppercase:
     for b in ascii_uppercase:
-        for num1 in range(3):   # from 000 to 020 to save time
-            for num2 in range(10):
-            	for num3 in range(10):
-                	print("QWE{}{}{}{}{}".format(a,b,num1,num2,num3))
+    	for num1 in range(3):
+    		for num2 in range(10):  # from 000 to 020 to save time
+                	print("QWE{}{}0{}{}".format(a,b,num1,num2))
 
 
 ''' Sample output:
