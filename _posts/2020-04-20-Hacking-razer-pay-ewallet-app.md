@@ -6,7 +6,9 @@ tag: [Bug bounty, Mobile]
 ---
 
 ## Introduction
-This write-up is about hacking the Razer Pay Android app - an E-Wallet app used in Singapore and Malaysia. It was an interesting journey worth blogging due to the user of some interesting techniques including Frida, a tool that I only thought was meant for bypassing SSL-pinning or root detection. In this write-up I will show how I was able to use Frida to compromise the app, ranging from reading other user's chat messages, deleting user's bank accounts, gleaning user's private info, and even stealing money from user's accounts.
+This write-up is about hacking the Razer Pay Android app - an E-Wallet app used in Singapore and Malaysia. It was an interesting journey worth blogging due to the user of some interesting techniques including Frida, a tool that I only thought was meant for bypassing SSL-pinning or root detection. 
+
+In this write-up I will show how I was able to use Frida to compromise the app, ranging from reading other user's chat messages, deleting user's bank accounts, gleaning user's private info, and even stealing money from other user's accounts.
 
 
 ## TL;DR
@@ -42,7 +44,7 @@ This worked and I was able to delete my another user's bank account! Nasty...
 
 
 ## Frida to the rescue
-At this point, I knew there must be other API endpoints that vulnerable IDOR but protected by the signature field. I tried to repeat the same attack I did previously but nothing worked. This was because other API endpoints used different algorithm and were painful obfuscated. The code compilation failed and I was wasting a lot of time troubleshooting obfuscated code.
+At this point, I knew there must be other API endpoints that were vulnerable to IDOR but protected by the signature field. I tried to repeat the same attack I did previously but nothing worked. This was because other API endpoints used different algorithm and were painful obfuscated. The code compilation failed and I was wasting a lot of time troubleshooting obfuscated code.
 
 This is where Frida came to the rescue. Frida was awesome as it did all the heavy lifting and all I needed to do was identify the right method that I wanted to hook. By hooking the right method and providing Frida with the neccessary values it needed to calculated the new signatures, I was able to quickly automate things and get the right signature.
 
@@ -89,7 +91,7 @@ As I browsed the mobile app, any action that utilised the hooked method "MD5Enco
 
 
 ## Rinse and repeat
-I repeated the same technique with Frida for all other API endpoints that were vulnerable. Some high impact issues include enumerating how much red packet (money) was shared between users or in a group, viewing other user's transaction details and personal information.
+I repeated the same technique with Frida for all other API endpoints that were vulnerable. Some high impact issues include enumerating how much red packet (money) was shared between users or in a group, viewing and modifying other user's transaction details and personal information.
 
 
 ## Final thoughts
