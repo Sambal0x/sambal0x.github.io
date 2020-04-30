@@ -6,7 +6,7 @@ tags: Gigs
 ---
 
 
-I was recently on an engagement testing a client's checkout payment system. It was the type of engagement where everything seemed to be locked down and I had no findings for 2 days straight (most likely because I was looking at the wrong place)
+I was recently testing a checkout payment system. It was the type of setup where everything seemed to be locked down and I had no findings for 2 days straight (most likely because I was looking at the wrong place)
 
 ![Give me something...](/assets/img/blog/bangkeyboard.gif)
 
@@ -30,4 +30,4 @@ I quickly repeated the whole process with a new item, intercepted the request in
 
 Sure enough, the transaction went through and I was able to successfully make a transaction for free.
 
-I reported this immediately to the client and an emergency patch was rolled out the next day.
+I reported this immediately to the vendor and an emergency patch was rolled out the next day.

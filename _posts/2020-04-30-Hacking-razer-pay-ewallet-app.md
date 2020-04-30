@@ -6,7 +6,7 @@ tag: [Bug bounty, Mobile]
 ---
 
 ## Introduction
-This write-up is about hacking the Razer Pay Android app - an E-Wallet app used in Singapore and Malaysia. It was an interesting journey worth blogging due to the user of some interesting techniques including Frida, a tool that I only thought was meant for bypassing SSL-pinning or root detection. 
+This write-up is about hacking the Razer Pay Android app - an E-Wallet app used in Singapore and Malaysia. It was an interesting journey worth blogging due to the use of some interesting techniques including Frida, a tool that I only thought was meant for bypassing SSL-pinning or root detection. 
 
 In this write-up I will show how I was able to use Frida to compromise the app, ranging from reading other user's chat messages, deleting user's bank accounts, gleaning user's private info, and even stealing money from other user's accounts.
 
