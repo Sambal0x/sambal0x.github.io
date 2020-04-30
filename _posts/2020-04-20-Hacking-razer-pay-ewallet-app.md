@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hacking Razer Pay Ewallet App"
-date: 2020-04-20
+date: 2020-04-30
 tag: [Bug bounty, Mobile]
 ---
 
@@ -95,4 +95,4 @@ I repeated the same technique with Frida for all other API endpoints that were v
 
 
 ## Final thoughts
-The total bounty received for reporting these issues was approximately $6,000. The disclosure and reward process with Razer team were at time frusfrating due to the lack of response. Sometimes I cringe when I read my multiple follow ups for a response or follow ups on bounty rewards that were forgotten. However most of the issues were resolved recently and I have personally decided not to carry on working for this program going forward given the experience I had.
+The total bounty received for reporting these issues was approximately $6,000. The disclosure and reward process with Razer team were at time frusfrating due to the lack of response. Sometimes I cringe when I read my multiple follow ups for a response or follow ups on bounty rewards that were forgotten. However most of the issues were resolved recently and I have personally decided to take a break from this program going forward given the experience I had.
