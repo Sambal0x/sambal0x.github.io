@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [About, Archive]
 ---
 
-Richard is currently part of the offensive security consultant team at The Missing Link where he provides penetration testing and red teaming services to clients across various industries (e.g. airlines, finance, entertainment, retail, and government). Prior to working with The Missing Link, he worked at Deloitte as a penetration tester where he was provided the opportunity to work with Fortune 500 companies across various industries.
+Richard is currently Senior Security Consultant at Trustwave SpiderLabs where he provides penetration testing and red teaming services to clients across various industries (e.g. airlines, finance, entertainment, retail, and government). Prior to working with SpiderLabs, he worked at The Missing Link and Deloitte as a penetration tester where he was provided the opportunity to work with Fortune 500 companies across various industries.
 
 He currently has a combined experience of 10 years across both Engineering and Information Security.
 
@@ -26,4 +26,3 @@ He also currently holds a range of industry certifications:
 * AWS Certified SysOps Administrator
 * AWS Certified Solutions Architect 
 * VMWare Certified Professional 5 - DCV
- 
