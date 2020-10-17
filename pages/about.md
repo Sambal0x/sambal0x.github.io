@@ -8,7 +8,7 @@ tags: [About, Archive]
 
 Richard is currently Senior Security Consultant at Trustwave SpiderLabs where he provides penetration testing and red teaming services to clients across various industries (e.g. airlines, finance, entertainment, retail, and government). Prior to working with SpiderLabs, he worked at The Missing Link and Deloitte as a penetration tester where he was provided the opportunity to work with Fortune 500 companies across various industries.
 
-He currently has a combined experience of 10 years across both Engineering and Information Security.
+He currently has a combined experience of more than 10 years across both Engineering and Information Security.
 
 He also currently holds a range of industry certifications:
 * Certified Information Systems Security Professional (CISSP)
