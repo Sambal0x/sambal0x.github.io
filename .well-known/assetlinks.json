@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sambal0x.com.sambal0x.linking_mechanism",  
+      "sha256_cert_fingerprints": [
+        "6A:34:44:8F:52:FD:86:BD:74:02:FA:00:1C:FD:B7:F2:E6:9B:C8:39:2D:E0:F6:25:D8:CC:9A:17:AC:F8:4B:91"
+      ]
+    }
+  }
+]
