@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-peralink: /about/
+permalink: /about/
 feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [About, Archive]
 ---
