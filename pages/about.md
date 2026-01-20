@@ -14,8 +14,8 @@ He previously worked at Trustwave SpiderLabs, The Missing Link, and Deloitte, de
 Richard has over 10 years of experience across engineering and information security, with a focus on offensive security, infrastructure, and enterprise environments.
 
 **Training**  
-Course instructor for *Android App Hacking Mastery* at ByteBlind Security  
-https://training.byteblind.com/
+Course instructor for [Android App Hacking Mastery training](https://training.byteblind.com/) at ByteBlind Security
+
 
 **Certifications**  
 CISSP · CRT PEN · OSCE · OSWP · OSCP · LPIC-1 · SUSE CLA · Security+ · CCNP · CCNA · CCNA-Security · AWS SysOps · AWS SAA · VCP-DCV
